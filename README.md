@@ -27,6 +27,17 @@ Também no portfólio: [matriz de competências](https://juli084.github.io/cyber
 [como documento os laboratórios](https://juli084.github.io/cybersecurity-portfolio/metodologia/) e
 [escopo e ética](https://juli084.github.io/cybersecurity-portfolio/etica/).
 
+## Auditoria de configuração do Windows
+
+**[auditoria-windows](https://github.com/Juli084/auditoria-windows)** · PowerShell
+
+Script que confere 20 itens de segurança de um computador Windows (contas, UAC, firewall, SMB,
+RDP, BitLocker, Defender, atualizações e registro de eventos) e gera um relatório em JSON e HTML.
+Só lê: um teste analisa o código e falha se aparecer um comando que altera o sistema. Cada item
+traz o motivo, a correção e, quando se aplica, a técnica do MITRE ATT&CK que a configuração
+dificulta. Roda no Windows PowerShell 5.1 e no PowerShell 7, com testes em Pester e integração
+contínua que audita o próprio runner do GitHub.
+
 ## Formação e certificações
 
 - Técnico em Segurança Cibernética, Senac Sorocaba
