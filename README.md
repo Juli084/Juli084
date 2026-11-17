@@ -35,13 +35,11 @@ Também no portfólio: [matriz de competências](https://juli084.github.io/cyber
 
 ## Desenvolvimento web
 
-Também desenvolvo para a web com JavaScript, TypeScript, React e Node.js. Alguns projetos deste
-perfil:
-
-- [ITECH26](https://github.com/Juli084/ITECH26): site da iTech, em TypeScript
-- [app-food](https://github.com/Juli084/app-food): aplicativo de pedidos, em TypeScript
-- [vida-saudavel](https://github.com/Juli084/vida-saudavel): aplicativo web sobre alimentação e hábitos saudáveis
-- [Weather-App](https://github.com/Juli084/Weather-App): previsão do tempo com React Hooks, Tailwind CSS e API externa
+Também desenvolvo para a web com JavaScript, TypeScript, React e Node.js. O próprio
+[portfólio](https://github.com/Juli084/cybersecurity-portfolio) é um exemplo: um site em Astro e
+TypeScript em que o build recusa laboratórios com metadados incompletos e o deploy pelo GitHub
+Actions só acontece depois da verificação de tipos, da auditoria de privacidade e da checagem de
+links.
 
 ## Contato
 
